@@ -29,4 +29,4 @@ And here's the final picture of how my business model works (halfway through).
 
 ![all png](img/all.png)
 
-# Me my name is Fitree Chelong
+
