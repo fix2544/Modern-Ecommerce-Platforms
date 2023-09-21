@@ -48,7 +48,11 @@ The first thing is to download the 3 programs that are the main keys like mentio
 - Visual Paradigm
 
 Once all three are loaded, open Laragon and select the root botton.
+
 ![laragon png](img/laragon.png)
+
+It will go to this page and create a new  file and put your wordpress in that file.
+
 
 
 My business model starts with:
