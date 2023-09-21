@@ -39,7 +39,7 @@ For Laragon, first of all it is convenient. Easy to use and free.
 For Wordpress, it is a widely known form, easy to use, no coding required, and fast.
 And finally, Visual Paradigm is a good program. And there is a complete modeling process.
 
-Steps for creating an e-commerce website
+Steps for have an e-commerce website
 
 The first thing is to download the 3 programs that are the main keys like mentioned above.
 
@@ -51,7 +51,13 @@ Once all three are loaded, open Laragon and select the root botton.
 ![laragon png](img/laragon.png)
 
 It will go to this page and create a new  file and put your wordpress in that file.
+![root png](img/root.png)
 
+And go to Web with click (I'm already to install it take me to login page and done) 
+![laragon1 png](img/laragon1.png)
+
+And we come to the andmin page(ฺBackend) For your first page you can create by yourself and you can use the theme (I'm done for this step)
+![wp1 png](img/wp1.png)
 
 
 My business model starts with:
