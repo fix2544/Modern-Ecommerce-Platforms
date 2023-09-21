@@ -34,6 +34,13 @@ Visual Paradigm is a leading and globally recognized provider for Business and I
 
 **Why did I choose to use these three strategies to build an e-commerce website?**
 
+Why did I choose to use these three strategies to build an e-commerce website?
+For Laragon, first of all it is convenient. Easy to use and free.
+
+For Wordpress, it is a widely known form, easy to use, no coding required, and fast.
+
+And finally, Visual Paradigm is a good program. And there is a complete modeling process**(recommended)**
+
 My business model starts with:
 customer
 admin
