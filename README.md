@@ -22,15 +22,15 @@ Before we get into the business process part. Let's get to know the main keys th
 
 1 Laragon
 Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
-Documentation | Laragon - portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. 
+[Laragon](https://laragon.org/docs/index.html)
 
 2 Wordpress
 At its core, WordPress is the simplest, most popular way to create your own website or blog. In fact, WordPress powers over 43.3% of all the websites on the Internet. Yes – more than one in four websites that you visit are likely powered by WordPress.
-What Is WordPress? Explained for Beginners (kinsta.com)
+What Is WordPress? Explained for Beginners [Wordpress](kinsta.com)
 
 
 3 Visual Paradigm
-Visual Paradigm is a leading and globally recognized provider for Business and IT Transformation software solutions. It enables organizations to improve business and IT agility and foster innovation through popular open standards. Our award-winning products are trusted by over 320,000 users in companies ranging from small business, consultants, to blue chip organizations, universities and government units across the globe. About Visual Paradigm (visual-paradigm.com)
+Visual Paradigm is a leading and globally recognized provider for Business and IT Transformation software solutions. It enables organizations to improve business and IT agility and foster innovation through popular open standards. Our award-winning products are trusted by over 320,000 users in companies ranging from small business, consultants, to blue chip organizations, universities and government units across the globe. About Visual Paradigm [Visual Paradigm](visual-paradigm.com)
 
 My business model starts with:
 customer
