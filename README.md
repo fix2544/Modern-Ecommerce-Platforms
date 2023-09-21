@@ -47,6 +47,10 @@ The first thing is to download the 3 programs that are the main keys like mentio
 - Wordpress
 - Visual Paradigm
 
+Once all three are loaded, open Laragon and select the root botton.
+![laragon png](img/laragon.png)
+
+
 My business model starts with:
 customer
 admin
