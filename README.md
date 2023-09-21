@@ -19,6 +19,7 @@ Summary and Synopsis of the Project
 
 Introduction
 Before we get into the business process part. Let's get to know the main keys that are important in creating an e-commerce website.
+
 1 Laragon
 Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
 Documentation | Laragon - portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. 
