@@ -39,7 +39,7 @@ For Laragon, first of all it is convenient. Easy to use and free.
 For Wordpress, it is a widely known form, easy to use, no coding required, and fast.
 And finally, Visual Paradigm is a good program. And there is a complete modeling process.
 
-Steps for have an e-commerce website
+**Steps for have an e-commerce website**
 
 The first thing is to download the 3 programs that are the main keys like mentioned above.
 
