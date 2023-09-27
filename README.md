@@ -51,7 +51,7 @@ Once all three are loaded, open Laragon and select the root botton.
 
 ![laragon png](img/laragon.png)
 
-It will go to this page and create a new  file and put your wordpress in that file.
+Create a new  file and put your wordpress in that file.
 
 ![root png](img/root.png)
 
