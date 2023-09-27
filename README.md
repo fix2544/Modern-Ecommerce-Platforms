@@ -62,7 +62,7 @@ And we come to the admin page(ฺBackend)
 
 ![wp1 png](img/wp1.png)
 
-You can follow this video [Click](https://www.youtube.com/watch?v=0eeld9jH1Tk)
+### You can follow this video [Click](https://www.youtube.com/watch?v=0eeld9jH1Tk)
 
 **My Web**
 
