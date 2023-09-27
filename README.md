@@ -12,12 +12,11 @@ Student of Information and Technology
 - Introduction
 - Discussion and Details
 - Conclusion
-- Recommendations
 
-**Summary and Synopsis of the Project**
+## Summary and Synopsis of the Project
   This project is about making an e-commerce website and practicing creating a small business model using Wordpress to create a website. Which is my business A website about selling things like suits, shoes, hats, etc. Creating a website this time has many helpers that are important keys such as Laragon, wordpress, Visual Paradigm etc.
 
-Introduction
+## Introduction
 Before we get into the business process part. Let's get to know the main keys that are important in creating an e-commerce website.
 
 **1 Laragon**
@@ -39,7 +38,7 @@ For Laragon, first of all it is convenient. Easy to use and free.
 For Wordpress, it is a widely known form, easy to use, no coding required, and fast.
 And finally, Visual Paradigm is a good program. And there is a complete modeling process.
 
-**Steps for have an e-commerce website**
+## Steps for have an e-commerce website
 
 The first thing is to download the 3 programs that are the main keys like mentioned above.
 
@@ -63,15 +62,24 @@ And we come to the andmin page(ฺBackend)
 
 My website will be a website related to selling shirts or fashion clothing.
 
+![wp4 png](img/wp4.png)
 
+**There will be main functions as follows.**
+1 Customer views products/searches for desired products
+2 Add to cart
+3 Check out products
+4. Use discount coupons
+5 Choose payment method
+6 product orders
 
+**My business model**
 
-My business model starts with:
-customer
-admin
+starts with:
+customer,
+admin,
 delivery
 
-Please note that this model is not complete and my own business is a small business with me as admin and taking care of my own stock. That's like what you see in the model, which will see that the admin takes care of both the front of the house and the back of the house.
+**Please note** this model is not complete and my own business is a small business with me as admin and taking care of my own stock. That's like what you see in the model, which will see that the admin takes care of both the front of the house and the back of the house.
 
 **Let's start with the first picture:**
 ![customer png](img/customer.png)
@@ -96,4 +104,5 @@ And here's the final picture of how my business model works (halfway through).
 
 ![all png](img/all.png)
 
+## Conclusion
 
