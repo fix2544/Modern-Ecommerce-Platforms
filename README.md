@@ -5,7 +5,7 @@ Student Id : 631431007
 Student of Information and Technology
 
 ## Abstract
-  This project involves creating a simple modern e-commerce platform using Wordpress forms and includes modeling of business process systems from customer until delivery.
+ This project involves creating a simple modern e-commerce platform using Wordpress forms and includes modeling of business process systems from customer until delivery.
 
 ## Table of Content 
 - Summary and Synopsis of the Project
@@ -55,7 +55,7 @@ It will go to this page and create a new  file and put your wordpress in that fi
 And go to Web with click (I'm already to install it take me to login page and done) 
 ![laragon1 png](img/laragon1.png)
 
-And we come to the andmin page(ฺBackend)
+And we come to the admin page(ฺBackend)
 ![wp1 png](img/wp1.png)
 
 **My Web**
@@ -114,4 +114,4 @@ And here's the final picture of how my business model works (halfway through).
 ![all png](img/all.png)
 
 ## Conclusion
-
+ For this e-commerce website, this website was created using a theme and made in my own style. For me, creating a website is no longer difficult because of the website creation I have presented here. It is created without writing code at all. 
