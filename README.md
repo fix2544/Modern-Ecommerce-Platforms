@@ -71,7 +71,7 @@ My website will be a website related to selling shirts or fashion clothing.
 - Use discount coupons
 - Choose payment method
 - product orders
-  
+
 And of course, to have those functions or features, there must be a plug-in to help.
 
 **The main plugins that we use are as follows.**
