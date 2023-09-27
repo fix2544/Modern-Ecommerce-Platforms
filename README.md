@@ -65,13 +65,21 @@ My website will be a website related to selling shirts or fashion clothing.
 ![wp4 png](img/wp4.png)
 
 **There will be main functions as follows.**
-1 Customer views products/searches for desired products
-2 Add to cart
-3 Check out products
-4. Use discount coupons
-5 Choose payment method
-6 product orders
+- Customer views products/searches for desired products
+- Add to cart
+- Check out products
+- Use discount coupons
+- Choose payment method
+- product orders
+And of course, to have those functions or features, there must be a plug-in to help.
 
+**The main plugins that we use are as follows.**
+- WooCommerce [More](https://wordpress.org/plugins/woocommerce/.com)
+- WooCommerce PDF Invoices & Packing Slips Thai Language Pack (Adds Thai font (Norasi) to WooCommerce PDF Invoices & Packing Slips)
+- PDF Invoices & Packing Slips for WooCommerce  [More](https://wordpress.org/plugins/woocommerce-pdf-invoices-packing-slips/)
+- PeproDev WooCommerce Receipt Uploader [More](https://wordpress.org/plugins/pepro-bacs-receipt-upload-for-woocommerce/)
+- Chaty (Chat with your website visitors via their favorite channels. Show a chat icon on the bottom of your site and communicate with your website visitors.)[More](https://wordpress.org/plugins/chaty/)
+  
 **My business model**
 
 starts with:
