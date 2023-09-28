@@ -86,7 +86,7 @@ And of course, to have those functions or features, there must be a plug-in to h
 - PeproDev WooCommerce Receipt Uploader [More](https://wordpress.org/plugins/pepro-bacs-receipt-upload-for-woocommerce/)
 - Chaty (Chat with your website visitors via their favorite channels. Show a chat icon on the bottom of your site and communicate with your website visitors.)[More](https://wordpress.org/plugins/chaty/)
   
-**My business model**
+**BPMN Diagram**
 
 ![all png](img/Bd1.png)
 
