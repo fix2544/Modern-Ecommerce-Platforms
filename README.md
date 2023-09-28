@@ -90,5 +90,13 @@ And of course, to have those functions or features, there must be a plug-in to h
 
 ![all png](img/Bd1.png)
 
+![d1 png](img/d1.png)
+
+![d2 png](img/d2.png)
+
+![d3 png](img/d3.png)
+
+![d4 png](img/d4.png)
+
 ## Conclusion
  For this e-commerce website, this website was created using a theme and made in my own style. For me, creating a website is no longer difficult because of the website creation I have presented here. It is created without writing code at all. 
