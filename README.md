@@ -41,28 +41,6 @@ And finally, Visual Paradigm is a good program. And there is a complete modeling
 ## Steps for have an e-commerce website 
 #### You can follow this video [Click](https://www.youtube.com/watch?v=0eeld9jH1Tk)
 
-The first thing is to download the 3 programs that are the main keys like mentioned above.
-
-- Laragon
-- Wordpress
-- Visual Paradigm
-
-Once all three are loaded, open Laragon and select the root botton.
-
-![laragon png](img/laragon.png)
-
-Create a new  file and put your wordpress in that file.
-
-![root png](img/root.png)
-
-And go to Web with click (I'm already to install it take me to login page and done) 
-
-![laragon1 png](img/laragon1.png)
-
-And we come to the admin page(ฺBackend)
-
-![wp1 png](img/wp1.png)
-
 **My Web**
 
 My website will be a website related to selling shirts or fashion clothing.
