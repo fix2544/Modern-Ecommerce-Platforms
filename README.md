@@ -7,17 +7,10 @@ Student of Information and Technology
 ## Abstract
  This project involves creating a simple modern e-commerce platform using Wordpress forms and includes modeling of business process systems from customer until delivery.
 
-## Table of Content 
-- Summary and Synopsis of the Project
-- Introduction
-- Discussion and Details
-- Conclusion
+## Project overview
+  This project is about making an e-commerce website and practicing creating a small business model using Wordpress to create a website. Which is my business A website about selling things like suits, shoes, hats, etc. Creating a website this time has many helpers that are important keys such as Laragon, wordpress and Visual Paradigm.
 
-## Summary and Synopsis of the Project
-  This project is about making an e-commerce website and practicing creating a small business model using Wordpress to create a website. Which is my business A website about selling things like suits, shoes, hats, etc. Creating a website this time has many helpers that are important keys such as Laragon, wordpress, Visual Paradigm etc.
-
-## Introduction
-Before we get into the business process part. Let's get to know the main keys that are important in creating an e-commerce website.
+## Software use
 
 **1 Laragon**
 Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
@@ -33,17 +26,16 @@ Visual Paradigm is a leading and globally recognized provider for Business and I
 
 **Why did I choose to use these three strategies to build an e-commerce website?**
 
-Why did I choose to use these three strategies to build an e-commerce website?
+I choose to use these three strategies to build an e-commerce website?
 For Laragon, first of all it is convenient. Easy to use and free.
 For Wordpress, it is a widely known form, easy to use, no coding required, and fast.
 And finally, Visual Paradigm is a good program. And there is a complete modeling process.
 
-## Steps for have an e-commerce website 
-#### You can follow this video [Click](https://www.youtube.com/watch?v=0eeld9jH1Tk)
+## Steps for have an e-commerce website
+You can follow this video [Click](https://www.youtube.com/watch?v=0eeld9jH1Tk)
 
-**My Web**
+**My Web look like**
 
-My website will be a website related to selling shirts or fashion clothing.
 
 ![wp4 png](img/wp4.png)
 
@@ -64,17 +56,52 @@ And of course, to have those functions or features, there must be a plug-in to h
 - PeproDev WooCommerce Receipt Uploader [More](https://wordpress.org/plugins/pepro-bacs-receipt-upload-for-woocommerce/)
 - Chaty (Chat with your website visitors via their favorite channels. Show a chat icon on the bottom of your site and communicate with your website visitors.)[More](https://wordpress.org/plugins/chaty/)
   
-**BPMN Diagram**
+## BPMN Diagram
 
 ![all png](img/Bd1.png)
 
+## Customer part
+
 ![d1 png](img/d1.png)
 
+**We start form customer process. When customer use our site they can chose any product and add to cart or they can chose to reshopping or exit the site**
+- If customer exit the site is end.
+- If customer reshopping it'll go to shopping again with shop page.
+- If customer go to check out it'll go to the step that choes payment method and go to order the product and end.
+
+**Check product status**
+- Customer can check product status with percen namber and check in web.
+
+**Receive product**
+- After customer wait the product for 3 days they have to check that product is good or bad if have some problem they can contect with admin through chat box and it'll go to another process later.
+
+## Website part
 ![d2 png](img/d2.png)
 
-![d3 png](img/d3.png)
+**For website it is the center between customer and admin.**
+- Start form the first that is **product information** is that can make customer choes it.
+- Second is taking customer order before the data go to backend.
+- Third is taking slip from customer who choes transfer before the data go to backend.
+- Last one is chat box it's what the customer can use to contect with admin.
 
+## admin part
+![d3 png](img/d3.png)
+**Admin process**
+- First we go to start even.
+- When admin come to thier system they can choes what they want to work there are alot of choice actully.
+- if they choes for add product information or dev web is ecffect to web like the picture show.
+- if they choes chat they'll go to chat space.
+- When they see customer order they can go to check it until they deliver.
+- For order checking admin can check what customer choes for payment if cash on deliver it wii be on process but if customer choes to transfer admin cancheck transfer slip it pass or fail if pass is on process if fail admin will notify to customer to transfer or choes payment again.
+- Last one is admin have to taking pecel number and give it to customer.
+
+## Delivery part
 ![d4 png](img/d4.png)
+**Delivery process**
+- First delivery taking customer product from admin.
+- And put in in their system
+- Make a pacel number (Give to admin)
+- And sent product to customer (receive money from customer for who choes cash on deliver)
 
 ## Conclusion
  For this e-commerce website, this website was created using a theme and made in my own style. For me, creating a website is no longer difficult because of the website creation I have presented here. It is created without writing code at all. 
