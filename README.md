@@ -1,4 +1,4 @@
-# Modern-Ecommerce-Platforms
+![image](https://github.com/fix2544/Modern-Ecommerce-Platforms/assets/108730589/3da164b3-f5ac-44cc-91bf-e7ce315cbfec)# Modern-Ecommerce-Platforms
 Project name : Modern E-commerce Platform
 My name : Fitree Chelong
 Student Id : 631431007
@@ -93,6 +93,8 @@ And of course, to have those functions or features, there must be a plug-in to h
 **Admin process**
 - First we go to start even.
 - When admin come to thier system they can choes what they want to work there are alot of choice actully.
+
+![a3 png](img/a3.png)
 
 ![a1 png](img/a1.png)
 
