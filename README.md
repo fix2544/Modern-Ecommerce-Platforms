@@ -70,7 +70,7 @@ And of course, to have those functions or features, there must be a plug-in to h
 - If customer go to check out it'll go to the step that choes payment method and go to order the product and end.
 
 **Check product status**
-- Customer can check product status with percen namber and check in web.
+- Customer can check product status with percen namber and check in web and they also can check product slip in website too.
 
 **Receive product**
 - After customer wait the product for 3 days they have to check that product is good or bad if have some problem they can contect with admin through chat box and it'll go to another process later.
@@ -89,7 +89,7 @@ And of course, to have those functions or features, there must be a plug-in to h
 **Admin process**
 - First we go to start even.
 - When admin come to thier system they can choes what they want to work there are alot of choice actully.
-- if they choes for add product information or dev web is ecffect to web like the picture show.
+- if they choes for add product information or dev web is ecffect to web.
 - if they choes chat they'll go to chat space.
 - When they see customer order they can go to check it until they deliver.
 - For order checking admin can check what customer choes for payment if cash on deliver it wii be on process but if customer choes to transfer admin cancheck transfer slip it pass or fail if pass is on process if fail admin will notify to customer to transfer or choes payment again.
