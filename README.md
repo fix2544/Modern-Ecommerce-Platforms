@@ -117,7 +117,7 @@ And of course, to have those functions or features, there must be a plug-in to h
 
 ## Work Process look like
 
-Agile methodology is a project management and product development approach that prioritizes simplicity, collaboration, and the ability to respond to customer needs and changes quickly. It is based on the idea of breaking down a project or development into short, iterative cycles, where each cycle produces a usable product or software feature that can be tested and used. Here are some key principles of Agile:
+The workflow process of the system bears similarities to Agile methodology, which is a framework for software project management and product development that emphasizes simplicity and the ability to adapt to customer requirements and rapid development. It is rooted in collaboration between the development team and customers. The core principle of Agile is to break the project or development into short cycles (iterations), with each cycle producing a usable software version that can be tested and utilized. Agile work involves the following characteristics:
 
 - Collaboration: Agile encourages close collaboration between the development team and the customer, emphasizing communication and working together closely.
 
