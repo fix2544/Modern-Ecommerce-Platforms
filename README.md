@@ -99,7 +99,7 @@ And of course, to have those functions or features, there must be a plug-in to h
 - if they choes for add product information or dev web is ecffect to web.
 - if they choes chat they'll go to chat space.
 - When they see customer order they can go to check it until deliver.
-- For order checking admin can check what customer choes for payment if cash on deliver it wii be on process but if customer choes to transfer admin cancheck transfer slip it pass or fail if pass is on process if fail admin will notify to customer to transfer or choes payment again.
+- For order checking admin can check what customer choes for payment if cash on deliver it will be on process but if customer choes to transfer admin can check transfer slip it pass or fail. If pass is on process if fail admin will notify to customer to transfer or choes payment again.
 
 ![a2 png](img/a2.png)
 
