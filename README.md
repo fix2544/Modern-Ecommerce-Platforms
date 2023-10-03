@@ -1,4 +1,4 @@
-![image](https://github.com/fix2544/Modern-Ecommerce-Platforms/assets/108730589/3da164b3-f5ac-44cc-91bf-e7ce315cbfec)# Modern-Ecommerce-Platforms
+# Modern-Ecommerce-Platforms
 Project name : Modern E-commerce Platform
 My name : Fitree Chelong
 Student Id : 631431007
