@@ -115,5 +115,29 @@ And of course, to have those functions or features, there must be a plug-in to h
 - Make a pacel number (Give to admin)
 - And sent product to customer (receive money from customer for who choes cash on deliver)
 
+## Work Process
+
+Agile methodology is a project management and product development approach that prioritizes simplicity, collaboration, and the ability to respond to customer needs and changes quickly. It is based on the idea of breaking down a project or development into short, iterative cycles, where each cycle produces a usable product or software feature that can be tested and used. Here are some key principles of Agile:
+
+- Collaboration: Agile encourages close collaboration between the development team and the customer, emphasizing communication and working together closely.
+
+- Iterative and Incremental: Agile divides the project into short cycles, and each cycle produces a small piece of the product, gradually increasing its completeness.
+
+- Flexibility: Agile allows for changing requirements and project scope during development, enabling teams to adapt to evolving needs.
+
+- Testing and Evaluation: Continuous testing and evaluation allow for feedback and continuous improvement throughout the project.
+
+- Deliver Customer Value: Agile focuses on delivering real customer value in short timeframes, ensuring that the product is meaningful to the customer.
+
+- Scrum and Kanban: Agile often employs frameworks like Scrum and Kanban to manage and control work in an Agile way.
+
+- Transparency: Agile promotes transparency by providing direct information and progress updates to everyone on the team.
+
+- Continuous Improvement: Agile encourages ongoing learning and improvement through assessments and immediate delivery.
+
+The success of Agile depends on proper implementation and adherence to its principles, and it is well-suited for projects that are complex or require flexibility in response to changing customer requirements.
+
 ## Conclusion
  For this e-commerce website, this website was created using a theme and made in my own style. For me, creating a website is no longer difficult because of the website creation I have presented here. It is created without writing code at all. 
+
+
