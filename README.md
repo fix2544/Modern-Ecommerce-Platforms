@@ -84,7 +84,7 @@ And of course, to have those functions or features, there must be a plug-in to h
 - Third is taking slip from customer who choes transfer before the data go to backend.
 - Last one is chat box it's what the customer can use to contect with admin.
 
-## admin part
+## Admin part
 ![d3 png](img/d3.png)
 **Admin process**
 - First we go to start even.
