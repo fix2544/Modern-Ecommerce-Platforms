@@ -115,7 +115,7 @@ And of course, to have those functions or features, there must be a plug-in to h
 - Make a pacel number (Give to admin)
 - And sent product to customer (receive money from customer for who choes cash on deliver)
 
-## Work Process
+## Work Process look like
 
 Agile methodology is a project management and product development approach that prioritizes simplicity, collaboration, and the ability to respond to customer needs and changes quickly. It is based on the idea of breaking down a project or development into short, iterative cycles, where each cycle produces a usable product or software feature that can be tested and used. Here are some key principles of Agile:
 
