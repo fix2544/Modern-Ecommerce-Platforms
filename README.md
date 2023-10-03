@@ -13,20 +13,20 @@ Student of Information and Technology
 ## Software use
 
 **1 Laragon**
-Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
+  Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
 [Laragon](https://laragon.org/docs/index.html)
 
 **2 Wordpress**
-At its core, WordPress is the simplest, most popular way to create your own website or blog. In fact, WordPress powers over 43.3% of all the websites on the Internet. Yes – more than one in four websites that you visit are likely powered by WordPress.
+  At its core, WordPress is the simplest, most popular way to create your own website or blog. In fact, WordPress powers over 43.3% of all the websites on the Internet. Yes – more than one in four websites that you visit are likely powered by WordPress.
 What Is WordPress? Explained for Beginners [Wordpress](kinsta.com)
 
 
 **3 Visual Paradigm**
-Visual Paradigm is a leading and globally recognized provider for Business and IT Transformation software solutions. It enables organizations to improve business and IT agility and foster innovation through popular open standards. Our award-winning products are trusted by over 320,000 users in companies ranging from small business, consultants, to blue chip organizations, universities and government units across the globe. About Visual Paradigm [Visual Paradigm](visual-paradigm.com)
+  Visual Paradigm is a leading and globally recognized provider for Business and IT Transformation software solutions. It enables organizations to improve business and IT agility and foster innovation through popular open standards. Our award-winning products are trusted by over 320,000 users in companies ranging from small business, consultants, to blue chip organizations, universities and government units across the globe. About Visual Paradigm [Visual Paradigm](visual-paradigm.com)
 
 **Why did I choose to use these three strategies to build an e-commerce website?**
 
-I choose to use these three strategies to build an e-commerce website?
+  I choose to use these three strategies to build an e-commerce website?
 For Laragon, first of all it is convenient. Easy to use and free.
 For Wordpress, it is a widely known form, easy to use, no coding required, and fast.
 And finally, Visual Paradigm is a good program. And there is a complete modeling process.
@@ -117,7 +117,7 @@ And of course, to have those functions or features, there must be a plug-in to h
 
 ## Work Process look like
 
-The workflow process of the system bears similarities to Agile methodology, which is a framework for software project management and product development that emphasizes simplicity and the ability to adapt to customer requirements and rapid development. It is rooted in collaboration between the development team and customers. The core principle of Agile is to break the project or development into short cycles (iterations), with each cycle producing a usable software version that can be tested and utilized. Agile work involves the following characteristics:
+   The workflow process of the system bears similarities to Agile methodology, which is a framework for software project management and product development that emphasizes simplicity and the ability to adapt to customer requirements and rapid development. It is rooted in collaboration between the development team and customers. The core principle of Agile is to break the project or development into short cycles (iterations), with each cycle producing a usable software version that can be tested and utilized. Agile work involves the following characteristics:
 
 - Collaboration: Agile encourages close collaboration between the development team and the customer, emphasizing communication and working together closely.
 
